@@ -1,2 +1,2 @@
 # coursera-test
-Coursera test repos
+This is the Coursera test web page.
